@@ -125,7 +125,7 @@ end
 - Exponential count of paths to test
 
 
-### Unit Tests just doesn't work. Are they?
+### Unit Tests just don't work. Are they?
 
 
 Testing in isolation = providing fake objects and/or mocks for all your **dependencies**
